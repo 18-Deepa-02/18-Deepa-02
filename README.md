@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am foodie...**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect 🤝 with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deepa-patil-123151236" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_174857" alt="deepa-patil-123151236" height="30" width="40" /></a>
 <a href="https://instagram.com/_deeps_vp_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_deeps_vp_" height="30" width="40" /></a>
