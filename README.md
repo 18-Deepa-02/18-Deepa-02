@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect 🤝 with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deepa-patil-123151236" target="blank">Linkedin</a>
-<a href="https://instagram.com/_deeps_vp_" target="blank"> instagram</a>
-<a href="https://www.hackerrank.com/pvdeepa00" target="blank">hankerrank</a>
-<a href="https://www.hackerearth.com/@pvdeepa00" target="blank">hackerearth</a>
-</p>
+<a href="https://linkedin.com/in/deepa-patil-123151236" target="blank"> 🎀 🅻🅸🅽🅺🅴🅳🅸🅽 </a><br><br>
+<a href="https://instagram.com/_deeps_vp_" target="blank">🎀 🅸🅽🆂🆃🅰🅶🆁🅰🅼 </a><br><br>
+<a href="https://www.hackerrank.com/pvdeepa00" target="blank">🎀 🅷🅰🅲🅺🅴🆁🆁🅰🅽🅺</a><br><br>
+<a href="https://www.hackerearth.com/@pvdeepa00" target="blank">🎀 🅷🅰🅲🅺🅴🆁🅴🅰🆁🆃🅷</a>
+
 
 
