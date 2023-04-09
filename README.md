@@ -20,7 +20,7 @@
 <a href="https://www.hackerrank.com/pvdeepa00" target="blank"><img src="https://user-images.githubusercontent.com/121683172/230781896-d9f30924-c3ea-4a49-8a73-dadc885347a8.png" alt="Hackerrank" width="130" height="40"></a>
 <a href="https://www.hackerearth.com/@pvdeepa00" target="blank"><img src="https://user-images.githubusercontent.com/121683172/230782082-ed186c43-ad0b-4b82-850d-6899125281f2.png" alt="Hackerearth"  width="130" height="40"</a><br>
 <h2 align="left">Languages I know :</h2>
-<a href="https:www.html.com" target="blank"><img src="https://user-images.githubusercontent.com/121683172/230787378-41404069-7fc6-4ffb-b1c3-bdfb4d076e0c.png" alt="HTML" width="40" height="40"></a>
-<a href="https:www.JAVA.com" target="blank"><img src="https://user-images.githubusercontent.com/121683172/230787534-3a0148a9-e4cc-4503-8c94-782eb0f0def0.png" alt="JAVA" width="40" height="40"></a>
-<a href="https:www.JAVA.com" target="blank"><img src="https://user-images.githubusercontent.com/121683172/230787728-b99dc987-9fe8-4845-aa1e-42ff2b63d7e2.png" alt="PYTHON" width="40" height="40"></a>
+<a href="https:https://www.w3schools.com/html" target="blank"><img src="https://user-images.githubusercontent.com/121683172/230787378-41404069-7fc6-4ffb-b1c3-bdfb4d076e0c.png" alt="HTML" width="40" height="40"></a>
+<a href="https:https://www.w3schools.com/java" target="blank"><img src="https://user-images.githubusercontent.com/121683172/230787534-3a0148a9-e4cc-4503-8c94-782eb0f0def0.png" alt="JAVA" width="40" height="40"></a>
+<a href="https:https://www.w3schools.com/python" target="blank"><img src="https://user-images.githubusercontent.com/121683172/230787728-b99dc987-9fe8-4845-aa1e-42ff2b63d7e2.png" alt="PYTHON" width="40" height="40"></a>
 <a href="https://www.w3schools.com/mysql" target="blank"><img src="https://user-images.githubusercontent.com/121683172/230788000-874b6a73-923b-4c2a-9771-69341290ab05.png" alt="SQL" width="40" height="40"></a>
