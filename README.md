@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/121683172/230956377-5863d3dc-22fe-4654-8481-536674d52ee6.png)
 <h1 align="center">Hi 👋, I'm Deepa Patil</h1>
 <h3 align="center">A passionate Data Science intern from India</h3>
 
