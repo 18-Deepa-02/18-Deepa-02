@@ -1,6 +1,8 @@
 ![image](https://user-images.githubusercontent.com/121683172/230956377-5863d3dc-22fe-4654-8481-536674d52ee6.png)
 <h1 align="center">Hi 👋, I'm Deepa Patil</h1>
 <h3 align="center">A passionate Data Science intern from India</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/121683172/230958199-4d3c41c9-8201-43b6-adae-c5d59846ec35.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=18-deepa-02&label=Profile%20views&color=0e75b6&style=flat" alt="18-deepa-02" /> </p>
 
