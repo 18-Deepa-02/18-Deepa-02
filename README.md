@@ -23,7 +23,7 @@
 <a href="https://instagram.com/_deeps_vp_" target="blank"><img src="https://user-images.githubusercontent.com/121683172/230781568-e1d8af23-99e2-427c-873d-f03245a9d0e3.png" alt="Instagram" width="40" height="40"></a>
 <a href="https://www.hackerrank.com/pvdeepa00" target="blank"><img src="https://user-images.githubusercontent.com/121683172/230781896-d9f30924-c3ea-4a49-8a73-dadc885347a8.png" alt="Hackerrank" width="130" height="40"></a>
 <a href="https://www.hackerearth.com/@pvdeepa00" target="blank"><img src="https://user-images.githubusercontent.com/121683172/230782082-ed186c43-ad0b-4b82-850d-6899125281f2.png" alt="Hackerearth"  width="130" height="40"</a>
- <a href="https://infyspringboard.onwingspan.com/web/en/app/profile/dashboard" target="blank"><img src="https://user-images.githubusercontent.com/121683172/234960577-8b1c320d-d92f-4bd4-b1a8-b7cb4b599409.png" alt="SQL" width="40" height="40"></a><br>
+ <a href="https://infyspringboard.onwingspan.com/web/en/app/profile/dashboard" target="blank"><img src="https://user-images.githubusercontent.com/121683172/234960577-8b1c320d-d92f-4bd4-b1a8-b7cb4b599409.png" alt="SQL" width="80" height="40"></a><br>
 <h2 align="left">Languages I know :</h2>
 <a href="https://www.w3schools.com/html" target="blank"><img src="https://user-images.githubusercontent.com/121683172/230787378-41404069-7fc6-4ffb-b1c3-bdfb4d076e0c.png" alt="HTML" width="40" height="40"></a>
 <a href="https://www.w3schools.com/java" target="blank"><img src="https://user-images.githubusercontent.com/121683172/230787534-3a0148a9-e4cc-4503-8c94-782eb0f0def0.png" alt="JAVA" width="40" height="40"></a>
