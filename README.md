@@ -30,4 +30,5 @@
 <a href="https://www.w3schools.com/python" target="blank"><img src="https://user-images.githubusercontent.com/121683172/230787728-b99dc987-9fe8-4845-aa1e-42ff2b63d7e2.png" alt="PYTHON" width="40" height="40"></a>
 <a href="https://www.w3schools.com/mysql" target="blank"><img src="https://user-images.githubusercontent.com/121683172/230788000-874b6a73-923b-4c2a-9771-69341290ab05.png" alt="SQL" width="40" height="40"></a>
   <h2 align="left">You can see my achievements below:</h2><br>
- <a href="https://infyspringboard.onwingspan.com/public-assets/infosysheadstart/cert/lex_auth_01350157401359974410728/1-c681851a-8803-4cc4-a256-3a28756ca5c5.pdf" target="blank">Dashboards analysis</a>
+ <a href="https://infyspringboard.onwingspan.com/public-assets/infosysheadstart/cert/lex_auth_01350157401359974410728/1-c681851a-8803-4cc4-a256-3a28756ca5c5.pdf" target="blank">DASHBOARD ANALYSIS</a><br>
+<a href="https://infyspringboard.onwingspan.com/public-assets/infosysheadstart/cert/lex_12666306402263577000_shared/1-e61ccd31-f820-4588-a4fb-3b363e7d5060.pdf" target="blank">INTRODUCTION TO DATA SCIENCE</a>
